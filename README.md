@@ -2,7 +2,7 @@
 
 This is a reusable skill for an AI assistant that finds internships and undergraduate research openings and alerts a student when new matches appear.
 
-It walks the student through a short setup conversation (study and skills, season and locations, role types, eligibility, search languages, and check times, plus an optional weekly email digest). After that, it searches official program and employer pages, reports verified openings, keeps a ledger so the same listing is not announced twice, stays quiet when a check finds nothing new, and can send one weekly status email if the student asked for it.
+It walks the student through a short setup conversation: six core questions (study and skills, season and locations, role types, eligibility and grades, search languages, and check times, plus an optional weekly email digest), then seven optional fit questions (must-haves and deal-breakers, research interests, concrete lab and data skills, who can vouch for them, hours and format, their goal for the summer, and organizations to watch or avoid). It uses the answers to rank the roles they can apply to first, and keeps roles above their current grades in a separate section instead of dropping them. After that, it searches official program and employer pages, reports verified openings, keeps a ledger so the same listing is not announced twice, stays quiet when a check finds nothing new, and can send one weekly status email if the student asked for it.
 
 The skill does not apply to jobs, contact employers, or send messages on the student's behalf, and it does not invent listings.
 
