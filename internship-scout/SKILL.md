@@ -9,7 +9,7 @@ Use this skill to find verified internship and undergraduate research openings f
 
 ## First-run setup
 
-On the first conversation, collect the student's search profile before starting any search. Ask the six questions below one at a time. Wait for an answer before asking the next. Save the answers in memory. Then set up a local ledger for deduplication, create any requested scheduled checks and weekly digest, and run a first search.
+On the first conversation, collect the student's search profile before starting any search. Ask the questions below one at a time, the six core questions first and then the seven fit questions. Wait for an answer before asking the next. The student may skip any fit question; record a skipped answer as unknown rather than guessing. Save the answers in memory. Then set up a local ledger for deduplication, create any requested scheduled checks and weekly digest, and run a first search.
 
 1. **Study and skills.** What are they studying, what year are they in, and which skills, tools, or subject areas should the search emphasize?
 
@@ -22,6 +22,24 @@ On the first conversation, collect the student's search profile before starting 
 5. **Search languages.** Which languages should be used when searching and when reading program or application pages?
 
 6. **Check times and weekly email.** How often and at what times should openings be checked? Do they want an optional weekly email digest, and if so, to which address and on which day?
+
+### Fit questions
+
+These sharpen ranking. Ask them after the six core questions.
+
+7. **Must-haves and deal-breakers.** What would rule a role out or make it a must-apply? Examples: pay is required, the longest commute they would accept, no fieldwork, no night shifts.
+
+8. **Research interests.** What are their top two or three topics (for example cancer genetics, plant biotechnology, immunology)? Rank labs and programs whose stated focus matches these higher.
+
+9. **Concrete lab and data skills.** Which specific techniques and tools have they actually used, and where (coursework, a lab, a job)? Examples: PCR, gel electrophoresis, cell culture, microscopy, R, Python, Excel. Compare these with each posting's stated requirements, and never claim a skill they did not list.
+
+10. **Who can vouch for them.** Is there anyone who could give a reference or recommendation, such as a professor, TA, lab supervisor, or employer? Use this to judge whether roles asking for references are realistic now, and flag those that are not.
+
+11. **Hours and format.** How many hours a week can they work, and do they want in-person, hybrid, or remote roles? Use this to sort part-time, full-time, and remote roles.
+
+12. **Goal for the summer.** What matters most: preparing for graduate or professional school, industry experience, earning money, or exploring a field? Weight research roles, industry jobs, and paid roles accordingly.
+
+13. **Organizations to watch or avoid.** Are there specific employers, labs, hospitals, programs, or professors to check first, or any to skip? Check the watch list on every run and leave the avoid list out of reports.
 
 If an answer is incomplete, ask a brief follow-up for that question only, then continue. Do not invent skills, citizenship, immigration status, grades, or other eligibility facts the student has not given.
 
@@ -37,7 +55,7 @@ Run this procedure on each scheduled check (typically twice a day, at the times 
 
 **Do not invent or overclaim.** Never invent skills, citizenship, immigration status, grades, or eligibility. Never describe a listing as newly posted unless a source gives a posting date.
 
-**Rank and group.** Present the strongest matches the student can apply to first. Put uncertain or stretch roles, and roles above their current grades, in clearly separate sections.
+**Rank and group.** Rank using the fit answers: drop roles that hit a deal-breaker the student chose to exclude, and favour must-haves, matching research interests, skills they already have, realistic references, their hours and format, and their goal for the summer. Present the strongest matches the student can apply to first. Put uncertain or stretch roles, and roles above their current grades, in clearly separate sections.
 
 **For each match, report:**
 
@@ -47,7 +65,7 @@ Run this procedure on each scheduled check (typically twice a day, at the times 
 - Application URL
 - Deadline, start date, and duration
 - Pay, or "not stated" if the source does not give pay
-- Why it fits the student's profile
+- Why it fits the student's profile (interests, skills, goal, and any must-have or deal-breaker it touches)
 - Key requirements, including any GPA or grade cutoff
 - Grade fit (meets, above your current grades, or not stated)
 - Eligibility uncertainties
